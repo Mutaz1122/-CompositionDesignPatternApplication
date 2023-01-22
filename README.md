@@ -1,11 +1,10 @@
-# -CompositionDesignPatternApplication
+# Composition Design Pattern Application
 a GUI client application using by which you can choose a certain folder. Once you select a folder, you should recursively traverse all of its content
 \
 \
 File/Folder combination is a typical example of the composite design pattern. A file has a name, size, extension. A folder has similar attribute (without an extension) plus a list of files or other folders. You are required to write a demonstration application that traverses files and folders in a selected directory. 
 \
 2.1.	Class diagram	
-
 Design a class diagram showing the above mentioned structure using the composite design pattern.
 \
 \
